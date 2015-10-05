@@ -61,7 +61,7 @@ x+x=exp(x)
 
 
 rodrigo
-ln(x)=2*x
+ln(x)=ln(x)
 
 
 
