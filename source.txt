@@ -51,7 +51,7 @@ gustavo
 
 
 fabio
-x+x=exp(x)
+x+x=2X
 
 
 
