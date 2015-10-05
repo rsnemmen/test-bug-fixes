@@ -73,4 +73,4 @@ ln(x)=2*x
 
 
 ivan
-o ivan faz o curso de antropologia na USP
+o ivan faz o curso de física na USP
