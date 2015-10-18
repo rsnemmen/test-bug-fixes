@@ -11,25 +11,28 @@ TL;DR: how to pull request or fix bugs in someone else's project.
 
 i.e. create your own copy of this.
 
-<!---
-![](./fork.jpg =480x)
--->
+<img src="gitlogo.jpg" width="480px" />
 
 ### 2. clone locally your fork
 
-### 3. sync your fork with the original repo
+### 3. [Configure your fork to point to the original repo](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
 
+### 4. create a branch for your edits
 
+```
+git checkout -b yourname
+```
 
-4. create a branch for your edits
-5. open *source.txt* and each person fixes a specific error in the "source code"
-6. create the pull request: contribute your bug fix to the code
+### 5. open *source.txt* and each person fixes a specific error in the "source code"
 
+But wait for me, I need to update this file according to the number of people present in this tutorial!
+
+### 6. [Create the pull request](https://help.github.com/articles/creating-a-pull-request/): contribute your bug fix to the code
+
+### [7. sync your fork with the original repo](https://help.github.com/articles/syncing-a-fork/)
+
+In order to check out how the original progress is evolving (or not) with the input of the group.
 
 # Links
 
 [Contributing to open source on github](https://guides.github.com/activities/contributing-to-open-source/)
-
-[Configuring a remote for a fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
-
-[Creating a pull request](https://help.github.com/articles/creating-a-pull-request/)
