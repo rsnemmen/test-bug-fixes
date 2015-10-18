@@ -11,7 +11,7 @@ TL;DR: how to pull request or fix bugs in someone else's project.
 
 i.e. create your own copy of this.
 
-<img src="gitlogo.jpg" width="480px" />
+<img src="fork.jpg" width="480px" />
 
 ### 2. clone locally your fork
 
