@@ -23,15 +23,15 @@ i.e. create your own copy of this.
 git checkout -b yourname
 ```
 
-### 5. open *source.txt* and each person fixes a specific error in the "source code"
+### 5. open *source.tex* and each person fixes a specific "error" in the "source code"
 
-But wait for me, I need to update this file according to the number of people present in this tutorial!
+But wait for me, I will tell you what an "error" means in this context. 
 
 ### 6. [Create the pull request](https://help.github.com/articles/creating-a-pull-request/): contribute your bug fix to the code
 
 ### [7. sync your fork with the original repo](https://help.github.com/articles/syncing-a-fork/)
 
-In order to check out how the original progress is evolving (or not) with the input of the group.
+In order to check out how the original project is evolving (or not) with the input of the group.
 
 # Links
 
