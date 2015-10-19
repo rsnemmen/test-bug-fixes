@@ -20,16 +20,25 @@ i.e. create your own copy of this.
 ### 4. create a branch for your edits
 
 ```
-git checkout -b yourname
+git checkout -b newbranch
 ```
 
 ### 5. open *source.tex* and each person fixes a specific "error" in the "source code"
 
-But wait for me, I will tell you what an "error" means in this context. 
+But wait for me, I will tell you what an "error" means in this context.
 
-### 6. [Create the pull request](https://help.github.com/articles/creating-a-pull-request/): contribute your bug fix to the code
+### 6. Commit and push the new branch
 
-### [7. sync your fork with the original repo](https://help.github.com/articles/syncing-a-fork/)
+```
+git commit -am "descreva o que mudou"
+git push -u origin newbranch
+```
+
+### 7. [Create the pull request](https://help.github.com/articles/creating-a-pull-request/): contribute your bug fix to the code
+
+### 8. Now I will review your pull requests
+
+### [9. sync your fork with the original repo](https://help.github.com/articles/syncing-a-fork/)
 
 In order to check out how the original project is evolving (or not) with the input of the group.
 
